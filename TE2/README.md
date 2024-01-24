@@ -16,7 +16,9 @@ cout << v << endl;
 <details>
 <summary>Solution</summary>
 
+```cpp
 long long int, 100000000000, 100000000000
+```
 
 </details>
 
@@ -33,7 +35,9 @@ cout << v << endl;
 <details>
 <summary>Solution</summary>
 
+```cpp
 long int, 298, 298
+```
 
 </details>
 
